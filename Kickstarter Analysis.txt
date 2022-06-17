@@ -1,0 +1,25 @@
+# Kickstarter Campaign
+
+## A breakdown of Kickstarter campaigns; goals, pledges, successes, and failures
+
+### We took a further look at a group of Kickstarter campaigns to compare how different campaigns did in correlation to their launch dates and goal amount. 
+	Is there a better time to start a campaign? Is asking for too much money a bad idea? Our analysis helps answers those questions for Louise  
+
+### Analysis and Challenges 
+	The analysis was performed by filtering through a large dataset, deciding what data will be most beneficial to Louise and her campaign,
+	and presenting the data in a way that is easy to understand. The challenges that were faced come from deciding what data was important and what we could leave out. 
+
+### Analysis of Outcomes Based on Launch Date 
+	In the analysis of outcomes based on launch date, we find that May is a particularly successful month.
+	Followed closely by June and then July. Though May was rather successful it also had the highest number of failed campaigns. 
+	It seems that May is a popular month for Kickstarter campaigns. November, December, and January prove to be the least successful months.
+
+### Analysis of Outcomes Based on Goals
+	In the analysis of Outcomes Based on Goals, the highest success percentage was for campaigns that asked anywhere between 1000 and 4999 dollars.
+	The highest percent of failure is from campaigns that asked for 45,000 and 49,999 dollars.
+
+### Challenges and Difficulties Encountered
+	The difficulties that arose were picking a chart that would clearly show the information we wanted presented, 
+	sorting through the dataset and deciding what we needed and what we didn’t, and choosing the formulas that would be assist sorting the data. 
+
+
